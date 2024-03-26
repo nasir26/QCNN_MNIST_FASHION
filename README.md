@@ -1,4 +1,7 @@
 # QCNN_MNIST_FASHION
+Python==3.6.2
+TensorFlow = 2.1.0
+TensorFlowQuantum = 0.3.0
 
 	This project explores the integration of quantum computing principles with convolutional neural networks, utilizing TensorFlow Quantum. The aim is to leverage the quantum mechanical properties to enhance the efficiency and performance of traditional neural network models, particularly in image processing tasks. Quantum Convolutional Neural Networks (QCNN) represent a frontier in combining quantum physics with deep learning, potentially offering significant computational advantages.
 
